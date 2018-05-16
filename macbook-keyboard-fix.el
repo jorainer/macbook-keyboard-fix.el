@@ -53,4 +53,4 @@
     )
   )
   
-(provide 'macboard-keyboard-fix)
+(provide 'macbook-keyboard-fix)
